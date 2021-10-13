@@ -3,3 +3,8 @@ img.recipe-img {
   width: 30%;
   border-radius: 5px;
 }
+
+p.footer-text {
+  text-align: center;
+  font-size: 8px;
+}
